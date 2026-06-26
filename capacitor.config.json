@@ -1,0 +1,13 @@
+{
+  "appId": "com.lasereraser.app",
+  "appName": "图层擦除工具",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
